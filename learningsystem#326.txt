@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Learning system </title>
+<link rel="stylesheet" href="learningsystem.css">
+</head>
+<body>
+  <h1> LEARNING SYSTEM</h1>
+  <p id="p1"> A place where knowledge meets student</<p>
+    <ul>
+      <li> <a href ="#"> HOME </a></li>
+      <li> <a href ="#">VIDEOS</a></li>
+      <li> <a href ="#"> TUTORS </a></li>
+      <li> <a href="#"> TEST  YOURSELF</a></li>
+      <li id="abt"> <a href ="#">CONTACT US</a></li>
+    </ul>
+    <div id="d1">
+      <h4> Important subject </h4><br>
+      <p> Maths</p><br>
+      <p>> Trignometry </p>
+      <p>>Probablity </p>
+      <p>>Profit and loss </p>
+      </div>
+      <div id="d2">
+        <h4> Important subject </h4><br>
+        <p> Physics</p><br>
+        <p>> Mechanics</p>
+        <p>>Thermal Physics </p>
+        <p>>Thermodynamics </p>
+        </div>
+        <div id="d3">
+          <h4> Important subject </h4><br>
+          <p> Chemistry</p><br>
+          <p>> alcohol and phenol </p>
+          <p>>Croboxyl group </p>
+          <p>>Chemistry in every day life </p>
+          </div>
+<div>
+  <h4>  About Trignometry </h4>
+  <p> Trigonometry (from Greek trigōnon, "triangle" and metron, "measure"[1]) is a branch of mathematics that studies relationships between side lengths and angles of triangles. The field emerged in the Hellenistic world during the 3rd century BC from applications of geometry to astronomical studies.[2] The Greeks focused on the calculation of chords, while mathematicians in India created the earliest-known tables of values for trigonometric ratios (also called trigonometric functions) such as sine.
+  <p id="p2"> <a href="#"> Related Links </a></p>
+  <p id="p3"> <a href="#"> FAQ </a></p>
+<p id="p4"> <a href="#"> Feedback </a></p>
+</body>
+</html>
